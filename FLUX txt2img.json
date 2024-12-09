@@ -6,7 +6,7 @@
       "id": 3,
       "type": "DualCLIPLoaderGGUF",
       "pos": [
-        -800,
+        -1200,
         840
       ],
       "size": [
@@ -282,7 +282,7 @@
       "id": 12,
       "type": "KSamplerSelect",
       "pos": [
-        -800,
+        -1200,
         240
       ],
       "size": [
@@ -316,7 +316,7 @@
       "id": 13,
       "type": "BasicScheduler",
       "pos": [
-        -800,
+        -1200,
         490
       ],
       "size": [
@@ -399,7 +399,7 @@
       "id": 16,
       "type": "VAELoader",
       "pos": [
-        -800,
+        -1200,
         1030
       ],
       "size": [
@@ -433,7 +433,7 @@
       "id": 26,
       "type": "Empty Latent by Pixels (WLSH)",
       "pos": [
-        -800,
+        -1200,
         -1030
       ],
       "size": [
@@ -543,7 +543,7 @@
       "id": 67,
       "type": "Seed (rgthree)",
       "pos": [
-        -800,
+        -1200,
         30
       ],
       "size": [
@@ -1128,7 +1128,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         160,
-        -1300
+        -1700
       ],
       "size": [
         80,
@@ -1174,7 +1174,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         160,
-        -1250
+        -1650
       ],
       "size": [
         80,
@@ -1223,7 +1223,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         160,
-        -1200
+        -1600
       ],
       "size": [
         80,
@@ -1273,7 +1273,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         160,
-        -800
+        -1200
       ],
       "size": [
         80,
@@ -1318,7 +1318,7 @@
       "id": 226,
       "type": "JHStringConstantMultiline",
       "pos": [
-        -800,
+        -1200,
         -780
       ],
       "size": [
@@ -1352,7 +1352,7 @@
       "id": 227,
       "type": "JHStringConstantMultiline",
       "pos": [
-        -800,
+        -1200,
         -330
       ],
       "size": [
@@ -1387,7 +1387,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         160,
-        -1150
+        -1550
       ],
       "size": [
         80,
@@ -1437,7 +1437,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         160,
-        -1100
+        -1500
       ],
       "size": [
         80,
@@ -1487,7 +1487,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         1760,
-        -800
+        -1200
       ],
       "size": [
         80,
@@ -1533,7 +1533,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         1760,
-        -700
+        -1100
       ],
       "size": [
         80,
@@ -1580,7 +1580,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         860,
-        -700
+        -1100
       ],
       "size": [
         80,
@@ -1626,7 +1626,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         1760,
-        -1100
+        -1500
       ],
       "size": [
         80,
@@ -1676,7 +1676,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         1760,
-        -1150
+        -1550
       ],
       "size": [
         80,
@@ -1772,7 +1772,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         2460,
-        -650
+        -1050
       ],
       "size": [
         80,
@@ -1819,7 +1819,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         3160,
-        -650
+        -1050
       ],
       "size": [
         80,
@@ -1866,7 +1866,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         3860,
-        -650
+        -1050
       ],
       "size": [
         80,
@@ -1914,7 +1914,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         4360,
-        -800
+        -1200
       ],
       "size": [
         80,
@@ -1961,7 +1961,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         4860,
-        -1300
+        -1700
       ],
       "size": [
         80,
@@ -2007,7 +2007,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         2460,
-        -600
+        -1000
       ],
       "size": [
         80,
@@ -2054,7 +2054,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         3160,
-        -550
+        -950
       ],
       "size": [
         80,
@@ -2101,7 +2101,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         5560,
-        -550
+        -950
       ],
       "size": [
         80,
@@ -2148,7 +2148,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         160,
-        -550
+        -950
       ],
       "size": [
         80,
@@ -2194,7 +2194,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         8160,
-        -1150
+        -1550
       ],
       "size": [
         80,
@@ -2334,7 +2334,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         1060,
-        -1250
+        -1650
       ],
       "size": [
         80,
@@ -2386,7 +2386,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         1060,
-        -1200
+        -1600
       ],
       "size": [
         80,
@@ -2438,7 +2438,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         3160,
-        -600
+        -1000
       ],
       "size": [
         80,
@@ -2485,7 +2485,7 @@
       "id": 404,
       "type": "mxSlider",
       "pos": [
-        -800,
+        -1200,
         -80
       ],
       "size": [
@@ -2529,7 +2529,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         160,
-        -1050
+        -1450
       ],
       "size": [
         80,
@@ -2579,7 +2579,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         3860,
-        -1050
+        -1450
       ],
       "size": [
         80,
@@ -2629,7 +2629,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         160,
-        -1000
+        -1400
       ],
       "size": [
         80,
@@ -2679,7 +2679,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         160,
-        -950
+        -1350
       ],
       "size": [
         80,
@@ -2726,7 +2726,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         160,
-        -850
+        -1250
       ],
       "size": [
         80,
@@ -2773,7 +2773,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         4360,
-        -1000
+        -1400
       ],
       "size": [
         80,
@@ -2823,7 +2823,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         4360,
-        -950
+        -1350
       ],
       "size": [
         80,
@@ -2870,7 +2870,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         4860,
-        -850
+        -1250
       ],
       "size": [
         80,
@@ -2916,7 +2916,7 @@
       "id": 414,
       "type": "Reroute (rgthree)",
       "pos": [
-        -440,
+        -840,
         630
       ],
       "size": [
@@ -2966,7 +2966,7 @@
       "id": 415,
       "type": "Reroute (rgthree)",
       "pos": [
-        -800,
+        -1200,
         630
       ],
       "size": [
@@ -3064,7 +3064,7 @@
       "id": 436,
       "type": "mxSlider",
       "pos": [
-        -800,
+        -1200,
         380
       ],
       "size": [
@@ -3108,7 +3108,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         160,
-        -900
+        -1300
       ],
       "size": [
         80,
@@ -3158,7 +3158,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         4360,
-        -900
+        -1300
       ],
       "size": [
         80,
@@ -3194,52 +3194,6 @@
         }
       ],
       "title": "DISHONESTY",
-      "properties": {
-        "resizable": false,
-        "size": [
-          80,
-          30
-        ],
-        "showLabel": true
-      }
-    },
-    {
-      "id": 443,
-      "type": "Reroute (rgthree)",
-      "pos": [
-        160,
-        -700
-      ],
-      "size": [
-        80,
-        30
-      ],
-      "flags": {},
-      "order": 16,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 782,
-          "dir": 3,
-          "has_old_label": true,
-          "label": " "
-        }
-      ],
-      "outputs": [
-        {
-          "name": "CLIP",
-          "type": "CLIP",
-          "links": [
-            783
-          ],
-          "slot_index": 0,
-          "dir": 4,
-          "has_old_label": true,
-          "label": " "
-        }
-      ],
       "properties": {
         "resizable": false,
         "size": [
@@ -3354,7 +3308,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         6560,
-        -650
+        -1050
       ],
       "size": [
         80,
@@ -3401,7 +3355,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         6560,
-        -600
+        -1000
       ],
       "size": [
         80,
@@ -3448,7 +3402,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         6560,
-        -550
+        -950
       ],
       "size": [
         80,
@@ -3494,7 +3448,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         6560,
-        -800
+        -1200
       ],
       "size": [
         80,
@@ -3540,7 +3494,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         6560,
-        -1250
+        -1650
       ],
       "size": [
         80,
@@ -3590,7 +3544,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         6560,
-        -1200
+        -1600
       ],
       "size": [
         80,
@@ -3670,7 +3624,7 @@
       "id": 453,
       "type": "Fast Groups Bypasser (rgthree)",
       "pos": [
-        -800,
+        -1200,
         -1280
       ],
       "size": [
@@ -3704,7 +3658,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         8160,
-        -1100
+        -1500
       ],
       "size": [
         80,
@@ -3912,7 +3866,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         160,
-        -750
+        -1150
       ],
       "size": [
         80,
@@ -3958,52 +3912,10 @@
       }
     },
     {
-      "id": 470,
-      "type": "WidgetToString",
-      "pos": [
-        -300,
-        700
-      ],
-      "size": [
-        300,
-        130
-      ],
-      "flags": {},
-      "order": 31,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "any_input",
-          "type": "*",
-          "link": 865,
-          "shape": 7
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            866
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "WidgetToString"
-      },
-      "widgets_values": [
-        0,
-        "unet_name",
-        false,
-        ""
-      ]
-    },
-    {
       "id": 471,
       "type": "UnetLoaderGGUF",
       "pos": [
-        -800,
+        -1200,
         700
       ],
       "size": [
@@ -4040,7 +3952,7 @@
       "type": "Reroute (rgthree)",
       "pos": [
         8160,
-        -750
+        -1150
       ],
       "size": [
         80,
@@ -4167,6 +4079,94 @@
         "Florence-2-large-PromptGen-v2.0",
         "fp16",
         "sdpa"
+      ]
+    },
+    {
+      "id": 443,
+      "type": "Reroute (rgthree)",
+      "pos": [
+        160,
+        -1100
+      ],
+      "size": [
+        80,
+        30
+      ],
+      "flags": {},
+      "order": 16,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 782,
+          "dir": 3,
+          "has_old_label": true,
+          "label": " "
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            783
+          ],
+          "slot_index": 0,
+          "dir": 4,
+          "has_old_label": true,
+          "label": " "
+        }
+      ],
+      "properties": {
+        "resizable": false,
+        "size": [
+          80,
+          30
+        ],
+        "showLabel": true
+      }
+    },
+    {
+      "id": 470,
+      "type": "WidgetToString",
+      "pos": [
+        -700,
+        700
+      ],
+      "size": [
+        300,
+        130
+      ],
+      "flags": {},
+      "order": 31,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "any_input",
+          "type": "*",
+          "link": 865,
+          "shape": 7
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            866
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "WidgetToString"
+      },
+      "widgets_values": [
+        0,
+        "unet_name",
+        false,
+        ""
       ]
     }
   ],
@@ -5049,13 +5049,6 @@
     "links_ontop": false
   },
   "extra": {
-    "ds": {
-      "scale": 0.12332015810276681,
-      "offset": [
-        2496.666666666667,
-        3108.028846153846
-      ]
-    },
     "info": {
       "name": "workflow",
       "author": "",
